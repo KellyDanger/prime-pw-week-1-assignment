@@ -24,6 +24,7 @@ p {
 img {
   border-style: groove;
   border-width: 2px;
+  align: center;
 }
 
 /* Change the font-family of your list */
